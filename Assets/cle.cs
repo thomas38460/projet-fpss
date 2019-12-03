@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class clé : MonoBehaviour
+public class cle : MonoBehaviour
 {
 
     public GameObject door;
