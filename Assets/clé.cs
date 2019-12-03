@@ -3,8 +3,6 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class clé : MonoBehaviour
-
-
 {
 
     public GameObject door;

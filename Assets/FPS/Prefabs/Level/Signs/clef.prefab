@@ -12,10 +12,9 @@ GameObject:
   - component: {fileID: 1181473261479298965}
   - component: {fileID: 1181473261478331733}
   - component: {fileID: 7968892784070332348}
-  - component: {fileID: 8832100939712881219}
   - component: {fileID: 9094737055857502016}
   m_Layer: 0
-  m_Name: Sign_Pyramid_Green
+  m_Name: clef
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -94,19 +93,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 1, y: 0.75, z: 1}
   m_Center: {x: 0.5, y: 0.375, z: 0.5}
---- !u!114 &8832100939712881219
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1181473261480532885}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 296805b6d67ec460c8719b22da347d54, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  door: {fileID: 2863981429961868562, guid: 4f42672477f836a4281ef4c3bdfe6d05, type: 3}
 --- !u!54 &9094737055857502016
 Rigidbody:
   m_ObjectHideFlags: 0
